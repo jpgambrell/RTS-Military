@@ -200,3 +200,29 @@ Concept art variation sheet for a real-time strategy video game: four distinct d
 
 ### Picking a winner
 "Isolate variation [1-4, counting from the left] from this sheet as a single hero image on the same background, same design, same paint." Attach the sheet as a reference.
+
+---
+
+## 5. Single-asset images from the reference sheets
+
+One image per unit, made with the original GPT Image sheets attached as references (vehicles, aircraft, infantry). The references are in the repo at `concept-art/references/` on the `claude/project-thread-6ds582` branch.
+
+### Template (attach the matching reference sheet)
+```
+Using the attached image as the style and design reference, create a single hero concept art image of one unit for a real-time strategy video game: [WHICH UNIT IN THE REFERENCE, e.g. "the main battle tank on the far right of the reference"], [three-quarter front view / three-quarter top-down view / full body]. Keep the exact rendering style, paint scheme, camouflage pattern, orange faction emblem, weathering, lighting and seamless light-gray studio backdrop of the reference image. Update the design subtly to the 2040s: grounded military realism about twenty years beyond today's equipment, with more integrated sensors, drone integration, cleaner faceted armor and hybrid-electric details, but no science fiction, no energy weapons, no mechs. Chunky silhouette readable from a high top-down RTS camera. One unit only, centered, fully in frame. No text, no labels, no logos, no real-world insignia.
+```
+Settings: `16:9` for vehicles and aircraft, `3:4` for infantry.
+
+### Results (2026-10-20)
+- [Recon jeep](https://d8j0ntlcm91z4.cloudfront.net/user_3I0dEBG9dbak9S2KQlNqbxzSONm/hf_20261020_191819_112baca2-01f4-445f-acf0-b8f808da371f.png)
+- [Troop transport (APC)](https://d8j0ntlcm91z4.cloudfront.net/user_3I0dEBG9dbak9S2KQlNqbxzSONm/hf_20261020_191817_448df0ab-744c-4932-94a3-3b4cb27634c5.png)
+- [Mobile missile launcher](https://d8j0ntlcm91z4.cloudfront.net/user_3I0dEBG9dbak9S2KQlNqbxzSONm/hf_20261020_191816_43058b19-0ff2-48f3-b68d-d2f8d865b191.png)
+- [Main battle tank](https://d8j0ntlcm91z4.cloudfront.net/user_3I0dEBG9dbak9S2KQlNqbxzSONm/hf_20261020_191819_67860efe-4061-4fe1-98de-34cad2e2b35a.png)
+- [Armed recon drone](https://d8j0ntlcm91z4.cloudfront.net/user_3I0dEBG9dbak9S2KQlNqbxzSONm/hf_20261020_191816_615327d1-6110-4914-aef8-4ec19e088c74.png)
+- [Stealth fighter](https://d8j0ntlcm91z4.cloudfront.net/user_3I0dEBG9dbak9S2KQlNqbxzSONm/hf_20261020_191817_a3455338-419a-4edb-aff3-d787327fec84.png)
+- [Attack helicopter](https://d8j0ntlcm91z4.cloudfront.net/user_3I0dEBG9dbak9S2KQlNqbxzSONm/hf_20261020_191818_4b54e78a-e1bd-4554-9faa-37afc7ef8c33.png)
+- [Stealth bomber](https://d8j0ntlcm91z4.cloudfront.net/user_3I0dEBG9dbak9S2KQlNqbxzSONm/hf_20261020_191820_7012dd65-5f26-4c39-888f-835dacab7ab5.png)
+- [Rifleman](https://d8j0ntlcm91z4.cloudfront.net/user_3I0dEBG9dbak9S2KQlNqbxzSONm/hf_20261020_191818_c787fcf6-742d-471c-b5ea-6f1d5187c987.png)
+- [Heavy machine gunner](https://d8j0ntlcm91z4.cloudfront.net/user_3I0dEBG9dbak9S2KQlNqbxzSONm/hf_20261020_191816_061808d3-49e5-4a07-91b0-f2685c0cba93.png)
+- [Sniper](https://d8j0ntlcm91z4.cloudfront.net/user_3I0dEBG9dbak9S2KQlNqbxzSONm/hf_20261020_191818_2a164df6-94bd-4065-ac1b-28cda6a388f5.png)
+- [Rocket specialist](https://d8j0ntlcm91z4.cloudfront.net/user_3I0dEBG9dbak9S2KQlNqbxzSONm/hf_20261020_191817_ada073f5-a0a6-4905-8518-0f0fdefb0d7c.png)
